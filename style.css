@@ -1,0 +1,233 @@
+.collapse a:hover{
+    /* border-bottom:2px solid green; */
+    /* background-color: whitesmoke; */
+    /* padding: auto; */
+
+}
+
+.nav-item{
+    margin-right: 50px;
+}
+
+.collapse{
+    font-weight: bold;
+    font-size: 15px;
+    
+}
+
+
+.links a{
+    color: goldenrod;
+    text-decoration:none;
+    font-size: 30px;
+}
+
+
+.col-sm-8  i{
+    background-color: black;
+    color: white;
+    border: 6px solid deepskyblue;
+    border-radius: 40px;
+    height: 70px;
+    padding: 15px;
+    font-size: 30px;  
+    width: 73px;    
+}
+
+
+.text-info i{
+    background-color: black;
+    color: white;
+    border: 6px solid deepskyblue;
+    border-radius: 40px;
+    height: 70px;
+    padding: 15px;
+    font-size:30px;
+    width: 73px;    
+   
+}
+
+.row a:hover i{
+   color: black;
+}
+
+
+.header h4{
+    color: deepskyblue;
+}
+.header:hover h4{
+    color: white;
+}
+ 
+.header:hover i{
+    border: 10px solid black;
+    background-color: white;
+    color: black;
+} 
+
+#vision {
+    color: deepskyblue;
+}
+
+#mission{
+    color: deepskyblue;
+}
+.row p{
+    color: black;
+}
+
+.col-sm-3 p{
+    color: white;
+}
+
+.bg-white{
+    border: 1px solid gainsboro;
+    padding:15px;
+    text-decoration: none; 
+}
+
+.col-sm-8{
+    border: 2px solid whitesmoke;
+    padding: 15px;
+    text-decoration: none; 
+}
+
+
+.col-sm-3 i:hover{
+    background-color: deepskyblue;
+    color: white;
+
+}
+
+.col-sm-3 i{
+    border: 2px solid white;
+    border-radius: 90px;
+    height: 65px;
+    padding: 14px;
+    font-size: 28px; 
+    width: 65px;   
+}
+
+.bg-white a{
+     text-decoration: none;
+     color:blue;  
+}
+
+.ps-1 a{
+    text-decoration: none;
+    color: white;
+     
+}
+
+.ps-1{
+    border: 1px solid gainsboro;
+    padding:15px;
+    text-decoration: none; 
+}
+
+
+.ps-1{
+    background-color: blue;
+    color: white;
+}
+
+.ps-1 :hover{
+    background-color: blue;
+    color: white;
+}
+
+.pt-4{
+    padding-left: 10%;
+    padding: 10px;
+
+}
+
+ 
+.py-4 i{
+    border: 2px solid deepskyblue;
+    border-radius: 90px;
+    height: 65px;
+    padding: 14px;
+    font-size: 28px; 
+    width: 65px;   
+}
+
+.py-4 :hover i{
+    color: white;
+    background-color:deepskyblue;
+}
+
+/*  
+.py-4{
+    padding-left: 8%;
+} */
+
+.py-4 p{
+    color: black;
+}
+
+span{
+    color: goldenrod;
+}
+
+.col-sm-4 h2{
+    color: blue;
+}
+
+.col-sm-4 h4{
+    color: white;
+   
+}
+.col-sm-4 h4 a{
+    color: white;
+    
+}
+
+.col-sm-4 a h4{
+    text-decoration: 2px solid white;
+}
+
+
+.link-foot a{
+    display:block;
+    color: gray;
+    text-decoration: none;
+    line-height: 40px;
+}
+
+.link-foot a:hover{
+    color: white;
+ 
+}
+
+small{
+
+    color: white;
+    
+}
+
+address{
+    color: white;
+}
+ 
+.icon-foot i{
+    color: blue;
+    margin: 10px;
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
